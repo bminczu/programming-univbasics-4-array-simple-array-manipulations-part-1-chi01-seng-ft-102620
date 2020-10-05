@@ -19,5 +19,5 @@ def using_shift(array)
 end
 
 def using_shift(array)
-  array.shift(2)
+  array.shift(3)
 end
