@@ -20,5 +20,4 @@ end
 
 def using_shift(array)
   array.shift(2)
-  p array
 end
